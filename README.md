@@ -1,6 +1,6 @@
-# AFI Directory
+# USAF Directory
 
-Welcome to the AFI Directory! This repository organizes key Air Force Instructions (AFIs), DoD Instructions (DoDIs), and related resources into categories to simplify navigation and support compliance. Use this guide to find the most relevant documents quickly and efficiently.
+Welcome to the USAF Directory! This repository organizes key Air Force Instructions (AFIs), DoD Instructions (DoDIs), and related resources into categories to simplify navigation and support compliance. Use this guide to find the most relevant documents quickly and efficiently.
 
 ---
 
