@@ -5,8 +5,6 @@ This section organizes Air Force Instructions (AFIs), DoD Instructions (DoDIs), 
 
 ## 🔑 Key Documents
 
-
-
 ### Uniforms and Appearance
 
 - **[DAFI 36-2903 - Dress and Personal Appearance ](http://static.e-publishing.af.mil/production/1/af_a1/publication/dafi36-2903/dafi36-2903.pdf)**<br/>
