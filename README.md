@@ -43,6 +43,10 @@ This section organizes Air Force Instructions (AFIs), DoD Instructions (DoDIs), 
 
 This section provides essential resources and guidance for Air Force Reservists, covering participation requirements, training, travel, pay, and administrative processes.
 
+## THE GUIDE for Individual Reservists
+- **[THE GUIDE for Individual Reservists](https://www.hqrio.afrc.af.mil/IR-Guide)**
+  This guide is catered to those in the IMA program because they need to self-manage their orders, points, and readiness. However this is an amazing guide for all Reservists!
+
 ### Travel and Pay
 - **[DTS Guide for Vouchers](https://media.defense.gov/2022/May/11/2002995240/-1/-1/0/DTS_Guide_3_Vouchers.PDF)**  
   Explains how to create and submit travel vouchers in DTS for reimbursement of authorized expenses like lodging, meals, and transportation.
@@ -75,9 +79,18 @@ This section provides essential resources and guidance for Air Force Reservists,
 - **[USAF Teams](https://dod.teams.microsoft.us/)**  
   Collaborate and communicate using the official U.S. Air Force Microsoft Teams platform for meetings, chat, and file sharing.
 
+### My Force Squadron Support (MyFSS)
+
+- **[MyFSS](https://myfss.us.af.mil/)**
+  The new portal for all online force support online.
+  
 - **[MyDecs Reimagined](https://myfss.us.af.mil/USAFCommunity/s/mydecs-reimagined)**  
   A centralized platform for managing award and decoration submissions.
+  
+- **[MyFitness](https://myfss.us.af.mil/USAFCommunity/s/usaf-fitness-management)**
+  View current fitness scores and schedule upcoming fitness exams.
 
+- **[MyIMA](https://myfss.us.af.mil/USAFCommunity/s/knowledge-detail?xid=43861)
 
 ## 🎖️ Awards and Decoration
 
