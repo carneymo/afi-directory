@@ -43,7 +43,7 @@ This section organizes Air Force Instructions (AFIs), DoD Instructions (DoDIs), 
 
 This section provides essential resources and guidance for Air Force Reservists, covering participation requirements, training, travel, pay, and administrative processes.
 
-## THE GUIDE for Individual Reservists
+### THE GUIDE for Individual Reservists
 - **[THE GUIDE for Individual Reservists](https://www.hqrio.afrc.af.mil/IR-Guide)**
   This guide is catered to those in the IMA program because they need to self-manage their orders, points, and readiness. However this is an amazing guide for all Reservists!
 
